@@ -1,6 +1,7 @@
 ---
  - name: Konekcija
    hosts: localhost
+   connection: local
    tasks:
    
      - name: Kreiranje foldera
