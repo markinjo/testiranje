@@ -1,0 +1,8 @@
+---
+ - name: Konekcija
+   hosts: localhost
+   tasks:
+   
+     - name: Kreiranje foldera
+       file:
+        path: /root/testiranje
