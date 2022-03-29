@@ -1,7 +1,8 @@
 ---
  - name: Konekcija
    hosts: localhost
-   vars_files: varijable.yml
+   vars_files: 
+    - varijable.yml
    tasks:
    
      - name: Kreiranje foldera
