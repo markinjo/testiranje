@@ -1,8 +1,8 @@
 ---
  - name: Konekcija
    hosts: localhost
-   vars_files: 
-    - varijable.yml
+   vars: 
+    - fajl: marko.txt
    tasks:
    
      - name: Kreiranje foldera
@@ -12,5 +12,5 @@
     
      - name: Kreiranje fajla
        file:
-        path: /root/testiranje/"{fajl}"
+        path: /root/testiranje/{fajl}
         state: touch
