@@ -1,8 +1,8 @@
 ---
  - name: Konekcija
    hosts: localhost
-   vars: 
-    - fajl: marko.txt
+   vars_files: 
+    - varijable.yml
    tasks:
    
      - name: Kreiranje foldera
