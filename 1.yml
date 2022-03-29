@@ -1,6 +1,6 @@
 ---
  - name: Konekcija
-   hosts: 192.168.81.140
+   hosts: localhost
    vars_files: varijable.yml
    tasks:
    
