@@ -14,3 +14,9 @@
        file:
         path: "/root/testiranje/{{fajl}}"
         state: touch
+        
+     - name: Dodajemo mivolanu atribut kakav je
+        lineinfile:
+          dest: "/root/testiranje/{{fajl}}"
+          line: "Milovan je lud"
+       
