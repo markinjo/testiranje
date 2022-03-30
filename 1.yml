@@ -1,6 +1,6 @@
 ---
  - name: Konekcija
-   hosts: test
+   hosts: localhost
    vars_files: 
     - varijable.yml
    tasks:
