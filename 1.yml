@@ -7,7 +7,7 @@
    
      - name: Kreiranje foldera
        file:
-        path: /root/testiranje
+        path: "/root/testiranje"
         state: directory
     
      - name: Kreiranje fajla
