@@ -3,6 +3,7 @@
    hosts: localhost
    vars_files: 
     - varijable.yml
+   became: yes 
    tasks:
    
      - name: Kreiranje foldera
