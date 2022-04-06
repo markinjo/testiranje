@@ -11,7 +11,7 @@
         state: directory
     
      - name: Kreiranje fajla
-         file:
+       file:
         path: "/root/testiranje/{{fajl}}"
         state: touch
         
