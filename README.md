@@ -13,11 +13,7 @@
   * 1.3 Tabela
     + [Shibboleth](#shibboleth)
     + [OpenLDAP](#openldap)
-  * [HOWTOs DEPRECATED](#howtos-deprecated)
-- 2 Poglavlje:
-  * 2.1
-     + [Shibboleth](#shibboleth-1)
-     + [Ansible Playbook](#ansible-playbook)
+
 
 ## Link
 Ovo je nas [Srba](https://en.wikipedia.org/wiki/Flag_of_Serbia)
@@ -55,7 +51,12 @@ systemctl start jetty
 </html>
 ```
 
-
+#Styling text
+**This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
+**This text is _extremely_ important**
+***All this text is important***
 
 ## Tabela
 Nacin 1
