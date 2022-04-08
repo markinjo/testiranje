@@ -6,9 +6,9 @@
     + [Rad sa linkovima](##Link)
     + [HOWTO Install and Configure a Service Provider](#howto-install-and-configure-a-service-provider)
   * 1.2 Kod
-    + [1 nacin](1-nacin)
-    + [2 nacin](2-nacin)
-    + [3 nacin](3-nacin)
+    + [1 nacin](#1-nacin)
+    + [2 nacin](#2-nacin)
+    + [3 nacin](#3-nacin)
   * 1.3 Tabela
     + [Shibboleth](#shibboleth)
     + [OpenLDAP](#openldap)
