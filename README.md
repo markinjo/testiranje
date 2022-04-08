@@ -53,15 +53,16 @@ systemctl start jetty
 
 
 #Styling text
-**This is bold text**
 
-*This text is italicized*
+Cao **This is bold text** dovidjenja
 
-~~This was mistaken text~~
+Boja*This text is italicized*
 
-**This text is _extremely_ important**
+Boja~~This was mistaken text~~
 
-***All this text is important***
+Boja**This text is _extremely_ important**Boja
+
+Boja***All this text is important***Boja
 
 ## Tabela
 Nacin 1
