@@ -7,11 +7,11 @@ Disable SeLinux [^1].
 
 
 
-- 1 Poglavlje:
-  * 1.1 Link
-    + [Rad sa linkovima](##Link)
+- Poglavlje:
+  * Link
+    + [Rad sa linkovima](#Link)
     + [HOWTO Install and Configure a Service Provider](#howto-install-and-configure-a-service-provider)
-  * 1.2 Kod
+  *  Kod
     + [1 nacin](#1-nacin)
     + [2 nacin](#2-nacin)
     + [3 nacin](#3-nacin)
@@ -20,11 +20,11 @@ Disable SeLinux [^1].
     + [OpenLDAP](#openldap)
 
 
-## Link
+### Link
 https://en.wikipedia.org/wiki/Flag_of_Serbia
 
 
-## Kod
+### Kod
 1 nacin
 
 `systemctl status jetty`
@@ -70,7 +70,7 @@ Boja**This text is _extremely_ important**Boja
 
 Boja***All this text is important***Boja
 
-## Tabela
+### Tabela
 Nacin 1
 | kolona1 | kolona2 | kolona3 |
 |:---|:---:|---:|
@@ -78,7 +78,7 @@ Nacin 1
 | `git_email` | ansible_git@ansible.com | The email for git to use for commits |
 | `git_username` | ansible_git | The username for git to use for commits |
 
-## Lista
+### Lista
 Nacin 1
 - George Washington
 - John Adams
