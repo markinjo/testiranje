@@ -88,7 +88,8 @@ A footnote can also have multiple lines[^2].
 
 You can also use words, to fit your writing style more closely[^note].
 
-[^1]: sestatus
+[^1]: 
+        sestatus
         SELinux status: enabled
         vim /etc/selinux/config
         SELINUX=disabled
