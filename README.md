@@ -12,7 +12,7 @@ Disable SeLinux [^1].
   * [PRVI NACIN](#1-nacin)
   * [DRUGI NACIN](#2-nacin)
   * [TRECI NACIN](#3-nacin)
-* [Getting Started](#getting-started)
+* [Lunk](#Link)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
