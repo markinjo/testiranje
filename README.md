@@ -3,7 +3,7 @@
 ## Sadrzaj
 Text that is not a quote
 
-Disable SeLinux [^NacindasepodesiSelinux].
+Disable SeLinux [^1].
 
 
 ## Table of Contents
@@ -105,7 +105,7 @@ Nacin 3
 
 You can also use words, to fit your writing style more closely[^note].
 
-[^NacindasepodesiSelinux]: 
+[^1]: 
        `sestatus`
        
        `SELinux status: enabled`
