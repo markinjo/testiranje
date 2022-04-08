@@ -1,4 +1,4 @@
-# ![bilo](https://user-images.githubusercontent.com/94840102/162418168-77a4b3a6-8974-48f1-904b-c3338e26e45c.png)
+# ![biloalt="Logo" width="200" height="80"](https://user-images.githubusercontent.com/94840102/162418168-77a4b3a6-8974-48f1-904b-c3338e26e45c.png)
 
 ## Sadrzaj
 Text that is not a quote
@@ -6,37 +6,41 @@ Text that is not a quote
 Disable SeLinux [^1].
 
 
+## Table of Contents
 
-- Poglavlje:
-  * Link
-    + [Rad sa linkovima](#Link)
-    + [HOWTO Install and Configure a Service Provider](#howto-install-and-configure-a-service-provider)
-  * Kod
-    + [1 nacin](#1-nacin)
-    + [2 nacin](#2-nacin)
-    + [3 nacin](#3-nacin)
-  * 1.3 Tabela
-    + [Shibboleth](#shibboleth)
-    + [OpenLDAP](#openldap)
+* [Kodovi](#kod)
+  * [PRVI NACIN](#1-nacin)
+  * [DRUGI NACIN](#2-nacin)
+  * [TRECI NACIN](#3-nacin)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Contributing](#contributing)
+* [License](#license)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
 
 
-### Link
+
+#Link
 https://en.wikipedia.org/wiki/Flag_of_Serbia
 
 
-### Kod
-1 nacin
+# Kod
+##1 nacin
 
 `systemctl status jetty`
 `systemctl status jetty`
 
-2 nacin
+##2 nacin
 
 `systemctl status jetty`
 
 `systemctl status jetty`
 
-3 nacin
+##3 nacin
 ```
 systemctl status jetty
 systemctl start jetty
@@ -70,7 +74,7 @@ Boja**This text is _extremely_ important**Boja
 
 Boja***All this text is important***Boja
 
-### Tabela
+## Tabela
 Nacin 1
 | kolona1 | kolona2 | kolona3 |
 |:---|:---:|---:|
@@ -78,7 +82,7 @@ Nacin 1
 | `git_email` | ansible_git@ansible.com | The email for git to use for commits |
 | `git_username` | ansible_git | The username for git to use for commits |
 
-### Lista
+## Lista
 Nacin 1
 - George Washington
 - John Adams
@@ -95,8 +99,7 @@ Nacin 3
      - First nested list item
        - Second nested list item
 
-## Fusnota
-
+# Fusnota
 
 
 
