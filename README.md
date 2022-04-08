@@ -29,18 +29,19 @@ https://en.wikipedia.org/wiki/Flag_of_Serbia
 
 
 # Kod
-##1 nacin
+
+## 1 nacin
 
 `systemctl status jetty`
 `systemctl status jetty`
 
-##2 nacin
+## 2 nacin
 
 `systemctl status jetty`
 
 `systemctl status jetty`
 
-##3 nacin
+## 3 nacin
 ```
 systemctl status jetty
 systemctl start jetty
