@@ -58,7 +58,7 @@ systemctl start jetty
 ## Tabela
 Nacin 1
 | kolona1 | kolona2 | kolona3 |
-|-|-|-|
+|-|:---:|---:|
 | `git_url` | https://en.wikipedia.org/wiki/Flag_of_Serbia|SRB|
 | `git_email` | ansible_git@ansible.com | The email for git to use for commits |
 | `git_username` | ansible_git | The username for git to use for commits |
