@@ -89,13 +89,13 @@ A footnote can also have multiple lines[^2].
 You can also use words, to fit your writing style more closely[^note].
 
 [^1]: 
-        sestatus
-        SELinux status: enabled
-        vim /etc/selinux/config
-        SELINUX=disabled
-        shutdown -r now
-        sestatus
-        SELinux status:  disabled
+sestatus
+SELinux status: enabled
+vim /etc/selinux/config
+SELINUX=disabled
+shutdown -r now
+sestatus
+SELinux status:  disabled
         
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
