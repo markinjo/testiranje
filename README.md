@@ -82,7 +82,7 @@ Nacin 3
 
 ## Fusnota
 
-[^1].
+[^1]. Disable SeLinux
 
 A footnote can also have multiple lines[^2].  
 
