@@ -16,7 +16,7 @@ Disable SeLinux [^1].
 * [Styling text](#Styling-text)
 * [Tabelaca](#Tabela)
 * [LISTA](#Lista)
-* [FUSNOTE](#Fusnot)
+* [FUSNOTE](#Fusnota)
 
 
 
