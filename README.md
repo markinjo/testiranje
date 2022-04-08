@@ -3,7 +3,7 @@
 ## Sadrzaj
 Text that is not a quote
 
-Disable SeLinux [^1].
+Disable SeLinux [^1]
 
 
 ## Table of Contents
