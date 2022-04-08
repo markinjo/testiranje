@@ -1,8 +1,9 @@
-# ![OVO](https://user-images.githubusercontent.com/94840102/162418168-77a4b3a6-8974-48f1-904b-c3338e26e45c.png)
+# ![bilo](https://user-images.githubusercontent.com/94840102/162418168-77a4b3a6-8974-48f1-904b-c3338e26e45c.png)
 
 ## Sadrzaj
 Text that is not a quote
 
+Disable SeLinux [^1].
 
 
 
@@ -96,9 +97,8 @@ Nacin 3
 
 ## Fusnota
 
-Disable SeLinux [^1].
 
-A footnote can also have multiple lines[^2].  
+
 
 You can also use words, to fit your writing style more closely[^note].
 
@@ -117,7 +117,7 @@ You can also use words, to fit your writing style more closely[^note].
        
        `SELinux status:  disabled`
        
-        
+A footnote can also have multiple lines[^2]. 
 [^2]: Every new line should be prefixed with 2 spaces.  
   This allows you to have a footnote with multiple lines.
 [^note]:
