@@ -13,12 +13,10 @@ Disable SeLinux [^1].
   * [DRUGI NACIN](#2-nacin)
   * [TRECI NACIN](#3-nacin)
 * [Linkic](#Link)  
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Styling text](#Styling-text)
+* [Tabelaca](#Tabela)
+* [LISTA](#Lista)
+* [FUSNOTE](#Fusnot)
 
 
 
@@ -61,7 +59,7 @@ systemctl start jetty
 ```
 
 
-#Styling text
+# Styling text
 
 Cao **This is bold text** dovidjenja
 
@@ -82,12 +80,13 @@ Nacin 1
 | `git_username` | ansible_git | The username for git to use for commits |
 
 ## Lista
-Nacin 1
+
+### Nacin 1
 - George Washington
 - John Adams
 - Thomas Jefferson
 
-Nacin 2
+### Nacin 2
 1. James Madison
 2. James Monroe
 3. John Quincy Adams
@@ -128,5 +127,5 @@ A footnote can also have multiple lines[^2].
  
  ## Komentar 
  
- `<!-- This content will not appear in the rendered Markdown -->` 
+ <!--This content will not appear in the rendered Markdown-->
 
