@@ -112,5 +112,5 @@ You can also use words, to fit your writing style more closely[^note].
  
  ## Komentar 
  
- `<!-- This content will not appear in the rendered Markdown -->`
+ `<!-- This content will not appear in the rendered Markdown -->` 
 
