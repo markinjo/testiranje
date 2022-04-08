@@ -1,4 +1,2 @@
-# testiranje
-
-:woman_technologist:
+# testiranje :woman_technologist:
 :chile:
