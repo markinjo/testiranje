@@ -45,7 +45,7 @@ systemctl start jetty
 
 4 nacin
 ```html 
-<summary>CLICK ME</summary>
+<details><summary>CLICK ME</summary>
 <!DOCTYPE html>
 <html>
 <body>
@@ -56,6 +56,7 @@ systemctl start jetty
 
 </body>
 </html>
+</details>
 ```
 
 
