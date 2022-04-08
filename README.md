@@ -90,11 +90,17 @@ You can also use words, to fit your writing style more closely[^note].
 
 [^1]: 
        `sestatus`
+       
        `SELinux status: enabled`
+       
        `vim /etc/selinux/config`
+       
        `SELINUX=disabled`
+       
        `shutdown -r now`
+       
        `sestatus`
+       
        `SELinux status:  disabled`
        
         
