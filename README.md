@@ -95,7 +95,7 @@ You can also use words, to fit your writing style more closely[^note].
        
        `vim /etc/selinux/config`
        
-       `SELINUX=disabled`
+       `SELINUX=enforcing ---> SELINUX=disabled`
        
        `shutdown -r now`
        
