@@ -1,6 +1,7 @@
 ---
  - name: Konekcija
    hosts: localhost
+   ansible_user: root
    vars_files: 
     - varijable.yml
    tasks:
