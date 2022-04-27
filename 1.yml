@@ -1,7 +1,6 @@
 ---
  - name: Konekcija
    hosts: all
-   ansible_user: root
    vars_files: 
     - varijable.yml
    tasks:
