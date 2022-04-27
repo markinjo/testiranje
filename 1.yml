@@ -1,7 +1,6 @@
 ---
  - name: Konekcija
    hosts: localhost
-   become: yes
    vars_files: 
     - varijable.yml
    tasks:
