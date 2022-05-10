@@ -1,6 +1,7 @@
 ---
  - name: Konekcija
    hosts: localhost
+   gather_facts: false
    vars_files: 
     - varijable.yml
    tasks:
