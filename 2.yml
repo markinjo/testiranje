@@ -5,7 +5,7 @@
   tasks:
     - name: Get the username running this playbook
       become: false
-      local_action: command whoami
+      command: whoami
       register: username_on_the_host
 
     - name: Display the User name
