@@ -8,16 +8,16 @@
    
      - name: Kreiranje foldera
        file:
-        path: '/root/testiranje'
+        path: '/home/testiranje'
         state: directory
     
      - name: Kreiranje fajla
        file:
-        path: '/root/testiranje/{{fajl}}'
+        path: '/home/testiranje/{{fajl}}'
         state: touch
         
      - name: Dodajemo mivolanu atribut kakav je
        lineinfile:
-         dest: '/root/testiranje/{{fajl}}'
+         dest: '/home/testiranje/{{fajl}}'
          line: "Milovan je lud"
        
