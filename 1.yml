@@ -14,7 +14,7 @@
       tags: k1
     
     - name: Komanda/shell2
-      shell: date  
+      shell: hostname -f  
       register: izlaz2
       tags: k2
 
