@@ -1,23 +1,24 @@
 ---
- - name: Konekcija
-   hosts: localhost
-   gather_facts: false
-   vars_files: 
-    - varijable.yml
-   tasks:
-   
-     - name: Kreiranje foldera
-       file:
-        path: '/root/testiranje'
-        state: directory
+- name: Tesna Knjigica
+  hosts: test
+  tasks:
+
+    - name: Komanda/shell
+      shell: timedatectl 
+      register: izlaz1
+      tags: k1
+
+    - name: Prikaz komande 
+      debug:
+        msg: "{{ izlaz1.stdout_lines}}"
+      tags: k1
     
-     - name: Kreiranje fajla
-       file:
-        path: '/root/testiranje/{{fajl}}'
-        state: touch
-        
-     - name: Dodajemo mivolanu atribut kakav je
-       lineinfile:
-         dest: '/root/testiranje/{{fajl}}'
-         line: "Milovan je lud"
-       
+    - name: Komanda/shell2
+      shell: date  
+      register: izlaz2
+      tags: k2
+
+    - name: Prikaz komande 
+      debug:
+        msg: "{{ izlaz2.stdout_lines}}"
+      tags: k2
