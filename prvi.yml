@@ -1,6 +1,6 @@
 ---
 - name: Tesna Knjigica
-  hosts: test
+  hosts: localhost
   tasks:
 
     - name: Komanda/shell
