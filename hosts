@@ -1,2 +1,7 @@
 [test]
 172.17.80.136
+[test:vars]
+[test:vars]
+ansible_user=root
+ansible_password=marko21a
+ansible_connection=ssh
