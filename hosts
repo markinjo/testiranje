@@ -1,5 +1,2 @@
 [test]
-192.168.81.140
-[test.vars]
-ansibe_user=root
-ansible_password=markinjo19
+172.17.80.136
