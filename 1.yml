@@ -1,6 +1,6 @@
 ---
  - name: Konekcija
-   hosts: test2
+   hosts: test3
    #become: yes
    vars: 
     - fajl: strava.txt
