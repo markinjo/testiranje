@@ -3,4 +3,3 @@
 [test:vars]
 ansible_user=root
 ansible_password=markinjo19
-ansible_connection=ssh
