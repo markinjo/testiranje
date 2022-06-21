@@ -1,6 +1,6 @@
 ---
  - name: Konekcija
-   hosts: localhost
+   hosts: test2
    become: yes
    vars: 
     - fajl: strava.txt
