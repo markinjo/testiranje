@@ -4,9 +4,13 @@
 [test2]
 172.17.82.154
 
+[test3]
+172.17.91.79
+
 [test:children]
 test1
 test2
+test3
 
 
 
