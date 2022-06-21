@@ -1,5 +1,14 @@
-[test]
+[test1]
 172.17.80.136
+
+[test2]
+172.17.91.79
+
+[test:children]
+test1
+test2
+
+
 
 #[test:vars]
 #ansible_user=root
